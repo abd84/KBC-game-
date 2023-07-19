@@ -17,3 +17,4 @@ The user is prompted to press 'S' to start the game. If 'S' is pressed, the game
 - The code() function is called to handle the game logic.
 - Player is given 10 seconds to answer each question otherwise he will win prize amount according to previously correct answered questions.
 - If the player answers all questions correctly, a victory message is displayed along with the amount won.
+- This game is made using terminal window
