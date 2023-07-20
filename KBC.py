@@ -1,6 +1,7 @@
 import os
 import time
 
+# This code is written according to libraries of MacOs for windows use appropriate libraries for proper functioning
 
 def Admin():
     print("Admin menu")
